@@ -1,0 +1,8 @@
+{
+  "name": "向森青社區公水公電管理(Demo)",
+  "description": "智慧社區能源管理系統。自動辨識電費單據，視覺化分析社區公共用電與費用趨勢，提供用電度數與金額的歷史比較圖表。",
+  "requestFramePermissions": [],
+  "dependencies": {
+    "@neondatabase/serverless": "^0.9.0"
+  }
+}
